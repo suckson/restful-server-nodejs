@@ -19,7 +19,7 @@
     "cheerio": "^1.0.0-rc.3",
     "crypto": "^1.0.1",
     "http": "0.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.8.1",
     "koa-body": "^4.1.1",
